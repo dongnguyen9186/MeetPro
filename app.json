@@ -20,12 +20,12 @@
   "env": {
     "GMAIL_USERNAME": {
       "description": "Your Gmail address for sending mail.",
-      "value": "user@example.com",
+      "value": "dongnguyen9186@gmail.com",
       "required": false
     },
     "GMAIL_PASSWORD": {
       "description": "Your Gmail password for sending mail.",
-      "value": "changeme",
+      "value": "thaovy@321",
       "required": false
     },
     "ADMIN_EMAIL": {
